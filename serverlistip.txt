@@ -1,3 +1,2 @@
-id = LangLa
-Làng Lá 360 = 1:14.225.202.175:2907:2908:https://langla360.com/
-Làng Lá Tối Thượng = 2:14.225.202.122:2907:2908:https://langlatoithuong.com/
+id = Làng lá
+Làng Lá LOCAL = 100:14.225.207.201:2907:2908
